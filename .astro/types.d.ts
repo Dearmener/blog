@@ -159,12 +159,12 @@ declare module 'astro:content' {
 } & { render(): Render[".md"] };
 };
 "recipes": {
-"香辣螺蛳.md": {
-	id: "香辣螺蛳.md";
-  slug: "香辣螺蛳";
+"post.md": {
+	id: "post.md";
+  slug: "post";
   body: string;
   collection: "recipes";
-  data: any
+  data: InferEntrySchema<"recipes">
 } & { render(): Render[".md"] };
 };
 "store": {
