@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "f1aab2bfd454003f",
+    "type": "split",
+    "children": [
+      {
+        "id": "680f69ef975ab320",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8004e1e3bfebbf4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/content/recipes/红烧鸡.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "583318ba49c1d878",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c461a038cfb0c4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3ef24a9c3ecc96f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fdd2a37578031dfe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "92b1ed7cdf7b1ef1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b9358e53e5f4159a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b34bef04c215d997",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f93c87239e74bda9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "src/content/recipes/红烧鸡.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4318bfef635a2803",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "src/content/recipes/红烧鸡.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "37a4ba10cd32c5c9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f236e5ba5f3cc196",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "src/content/recipes/红烧鸡.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "8004e1e3bfebbf4e",
+  "lastOpenFiles": [
+    "src/content/blog/LangChian使用.md",
+    "src/content/recipes/红烧鸡.md",
+    "src/content/recipes/香辣螺丝.md",
+    "src/content/blog/本地大模型部署方案 Ollama.md",
+    "src/content/blog/大模型.md",
+    "src/components/template/笔记名称.md",
+    "src/content/blog/123123.md",
+    "src/content/blog/1231.md",
+    "src/content/blog/123.md",
+    "src/content/blog/12312.md",
+    "src/content/blog/红烧鸡.md",
+    "src/content/blog/fdas.md",
+    "src/content/blog/fda.md",
+    "src/content/blog/fdsa.md",
+    "src/content/blog/1.md",
+    "src/content/blog/sdfa.md",
+    "src/content/blog/12321321.md",
+    "src/content/blog/132.md",
+    "src/content/blog/dfa.md",
+    "src/content/blog/fasd.md",
+    "src/content/blog/dam.md",
+    "src/content/blog/红烧大闸蟹.md",
+    "src/content/blog/好 23.md",
+    "src/content/blog/mgq.md",
+    "src/content/blog/12321.md",
+    "src/content/blog/hh.md",
+    "public/post_img.webp",
+    "src/components/template",
+    "public/254932576-0d0b44e2-8f4a-4e99-9b52-a5c1c741c8f7.png",
+    "public/ollama.png"
+  ]
+}
