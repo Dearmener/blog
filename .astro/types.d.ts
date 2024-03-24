@@ -136,32 +136,32 @@ declare module 'astro:content' {
 
 	type ContentEntryMap = {
 		"blog": {
-"post1123.md": {
-	id: "post1123.md";
-  slug: "post1123";
+"LangChian使用.md": {
+	id: "LangChian使用.md";
+  slug: "langchian使用";
   body: string;
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
-"post2.md": {
-	id: "post2.md";
-  slug: "post2";
-  body: string;
-  collection: "blog";
-  data: InferEntrySchema<"blog">
-} & { render(): Render[".md"] };
-"post3.md": {
-	id: "post3.md";
-  slug: "post3";
+"本地大模型部署方案 Ollama.md": {
+	id: "本地大模型部署方案 Ollama.md";
+  slug: "本地大模型部署方案-ollama";
   body: string;
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
 };
 "recipes": {
-"post.md": {
-	id: "post.md";
-  slug: "post";
+"红烧鸡.md": {
+	id: "红烧鸡.md";
+  slug: "红烧鸡";
+  body: string;
+  collection: "recipes";
+  data: InferEntrySchema<"recipes">
+} & { render(): Render[".md"] };
+"香辣螺丝.md": {
+	id: "香辣螺丝.md";
+  slug: "香辣螺丝";
   body: string;
   collection: "recipes";
   data: InferEntrySchema<"recipes">

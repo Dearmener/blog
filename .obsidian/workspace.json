@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "680f69ef975ab320",
+        "id": "8fe740130792a110",
         "type": "tabs",
         "children": [
           {
-            "id": "8004e1e3bfebbf4e",
+            "id": "5bd88207da99342a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,14 +147,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8004e1e3bfebbf4e",
+  "active": "5bd88207da99342a",
   "lastOpenFiles": [
-    "src/content/blog/LangChian使用.md",
-    "src/content/recipes/红烧鸡.md",
-    "src/content/recipes/香辣螺丝.md",
-    "src/content/blog/本地大模型部署方案 Ollama.md",
-    "src/content/blog/大模型.md",
+    "public/Pasted image 20240324203951.png",
     "src/components/template/笔记名称.md",
+    "src/content/recipes/红烧鸡.md",
+    "public/Pasted image 20240324203308.png",
+    "public/Pasted image 20240324202452.png",
+    "public/Pasted image 20240324203853.png",
+    "README.md",
+    "public/Pasted image 20240324203532.png",
+    "public/Pasted image 20240324203449.png",
+    "src/content/blog/LangChian使用.md",
+    "123.md",
+    "Pasted.md",
+    "src/content/blog/本地大模型部署方案 Ollama.md",
+    "src/content/recipes/香辣螺丝.md",
+    "src/content/blog/大模型.md",
     "src/content/blog/123123.md",
     "src/content/blog/1231.md",
     "src/content/blog/123.md",
@@ -171,10 +180,6 @@
     "src/content/blog/fasd.md",
     "src/content/blog/dam.md",
     "src/content/blog/红烧大闸蟹.md",
-    "src/content/blog/好 23.md",
-    "src/content/blog/mgq.md",
-    "src/content/blog/12321.md",
-    "src/content/blog/hh.md",
     "public/post_img.webp",
     "src/components/template",
     "public/254932576-0d0b44e2-8f4a-4e99-9b52-a5c1c741c8f7.png",

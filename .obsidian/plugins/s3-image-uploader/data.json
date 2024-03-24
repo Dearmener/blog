@@ -1,0 +1,20 @@
+{
+  "accessKey": "07d4221fa8c7e2bdfce9cf95ce974406",
+  "secretKey": "df0b4292a15e883d881a5e194c60621c4741dc01a3cdfdf50a8861f29cb3c1ac",
+  "region": "APAC",
+  "bucket": "mengguoqing",
+  "folder": "",
+  "imageUrlPath": "https://img.mgqustc.top/",
+  "uploadOnDrag": true,
+  "localUpload": false,
+  "localUploadFolder": "",
+  "useCustomEndpoint": true,
+  "customEndpoint": "https://3675db819803b33a2f3a2f650089f069.r2.cloudflarestorage.com/mengguoqing/",
+  "forcePathStyle": true,
+  "useCustomImageUrl": true,
+  "customImageUrl": "https://img.mgqustc.top/",
+  "uploadVideo": false,
+  "uploadAudio": false,
+  "uploadPdf": false,
+  "bypassCors": true
+}

@@ -1,4 +1,6 @@
 {
   "attachmentFolderPath": "public",
-  "promptDelete": false
+  "promptDelete": false,
+  "useMarkdownLinks": true,
+  "newLinkFormat": "shortest"
 }
