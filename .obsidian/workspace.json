@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/content/recipes/红烧鸡.md",
+                "file": "src/content/blog/LangChian使用.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/content/recipes/红烧鸡.md",
+                "file": "src/content/blog/LangChian使用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/content/recipes/红烧鸡.md",
+                "file": "src/content/blog/LangChian使用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/content/recipes/红烧鸡.md"
+                "file": "src/content/blog/LangChian使用.md"
               }
             }
           }
@@ -149,20 +149,23 @@
   },
   "active": "5bd88207da99342a",
   "lastOpenFiles": [
+    "src/content/blog/But What is a GPT.md",
+    "src/content/blog/本地大模型部署方案 Ollama.md",
+    "src/content/blog/LangChian使用.md",
+    "src/content/blog/未命名",
+    "src/content/blog/Untitled.md",
+    "src/content/recipes/红烧鸡.md",
+    "src/content/recipes/香辣螺丝.md",
     "public/Pasted image 20240324203951.png",
     "src/components/template/笔记名称.md",
-    "src/content/recipes/红烧鸡.md",
     "public/Pasted image 20240324203308.png",
     "public/Pasted image 20240324202452.png",
     "public/Pasted image 20240324203853.png",
     "README.md",
     "public/Pasted image 20240324203532.png",
     "public/Pasted image 20240324203449.png",
-    "src/content/blog/LangChian使用.md",
     "123.md",
     "Pasted.md",
-    "src/content/blog/本地大模型部署方案 Ollama.md",
-    "src/content/recipes/香辣螺丝.md",
     "src/content/blog/大模型.md",
     "src/content/blog/123123.md",
     "src/content/blog/1231.md",
@@ -179,7 +182,6 @@
     "src/content/blog/dfa.md",
     "src/content/blog/fasd.md",
     "src/content/blog/dam.md",
-    "src/content/blog/红烧大闸蟹.md",
     "public/post_img.webp",
     "src/components/template",
     "public/254932576-0d0b44e2-8f4a-4e99-9b52-a5c1c741c8f7.png",
